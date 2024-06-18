@@ -41,7 +41,7 @@ const dummyContent = [
           <p>
             Al comienzo tuve un equipo que no me agradaba del todo, pues no
             conocía a casi nadie. Pero como estuve con mi compañero Bryan 
-            o "el Don Caiman", me sentí bien. Aunque sentí culpa por no haber
+            o &quot;el Don Caiman&quot;, me sentí bien. Aunque sentí culpa por no haber
             terminado en el equipo de mi otro gran amigo Cuevas.
           </p>
           <p>
